@@ -10,6 +10,6 @@ Esta semana más que un proyecto tenemos varias libretas en jupyter a forma de t
 
 3. La libreta [`reg_logistica`](https://github.com/IA-UNISON/3-Aprendizaje/blob/main/reg_logistica.ipynb) es un poco más complicada, pero sigue siendo relativamente fácil para reforzar lo visto en clase, aunque cambie algo de la notación.
 
-4. La libreta [`regularizacion_logistica`] habla de una operación clave en todo proceso de generación de un modelo de predicción:  la regularización. Esto no lo vimos en clase, pero asumo que los estudiantes de la LCC están listos para asumir este tipo de retos.
+4. La libreta [`regularizacion_logistica`](https://github.com/IA-UNISON/3-Aprendizaje/blob/main/regularizacion_logistica.ipynb) habla de una operación clave en todo proceso de generación de un modelo de predicción:  la regularización. Esto no lo vimos en clase, pero asumo que los estudiantes de la LCC están listos para asumir este tipo de retos.
 
 Como calificación 2.5 puntos por cada libreta contestada completamente (si no me convence, o no está completa, cuenta como fracción).
